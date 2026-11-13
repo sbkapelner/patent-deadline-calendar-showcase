@@ -1,6 +1,6 @@
 {
   "organization_name": "Sarah Kapelner",
-  "generated_at": "2026-11-12T18:19:40.726Z",
+  "generated_at": "2026-11-13T17:44:14.118Z",
   "data_mode": "live",
   "source": "USPTO Open Data Portal",
   "applications": [
@@ -6470,14 +6470,19 @@
       "application_number": "19237392",
       "title": "TISSUE RETRACTOR, RETRACTION MODULES, AND ASSOCIATED METHODS",
       "filing_date": "2025-06-13",
-      "status": "Notice of Allowance Mailed -- Application Received in Office of Publications",
-      "status_date": "2026-08-14",
+      "status": "Publications -- Issue Fee Payment Received",
+      "status_date": "2026-11-13",
       "patent_number": "",
       "inventor_list": "Loic Josse",
       "examiner": "NEGRELLIRODRIGUEZ, CHRISTINA",
       "art_unit": "3773",
       "docket_number": "A0004611US05CON",
       "transactions": [
+        {
+          "event_code": "IFEE",
+          "description": "Issue Fee Payment Received",
+          "event_date": "2026-11-13"
+        },
         {
           "event_code": "MN/=.",
           "description": "Mail Notice of Allowance",
